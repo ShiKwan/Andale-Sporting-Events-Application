@@ -1,4 +1,4 @@
-# Andale
+# Andale!
 [Andale Fitness Application](https://andale-fitness.herokuapp.com/)
 
 Sporting Event Finder that let you RSVP the sporting event of your liking based on level of your gameplay. The motive of this application is to get gather people with the same interests and fitness level to perform sporting events of your interests and maybe making new friends along the way! 
